@@ -1,0 +1,2 @@
+# Schemat_Shamira_Metoda_Trywialna
+Created with CodeSandbox
